@@ -91,32 +91,6 @@ df_show_info = pd.DataFrame(
      'Article Link': list_links})
 
 
-# In[ ]:
-
-
-df_features
-
-
-# In[ ]:
-
-
-df_show_info
-
-
-# In[ ]:
-
-
-type(df_show_info)
-
-
-# In[ ]:
-
-
-type(df_features)
-
-
-# In[ ]:
-
 
 
 
